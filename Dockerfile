@@ -1,6 +1,6 @@
 FROM centos:7
-MAINTAINER Carlos Sura <carlos@sendplex.com>
-LABEL Description="LAMP PHP 7.2. CentOS 7 - sendplex website production" \
+MAINTAINER Carlos Sura <carlos@sendsms.com>
+LABEL Description="LAMP PHP 7.2. CentOS 7 - sendsms website production" \
 	Usage="Kubernetes only" \
 	Version="1.0"
 
@@ -95,7 +95,7 @@ RUN mkdir -p /etc/httpd/ssl/
 ADD /certs/ /etc/httpd/ssl/
 
 # Adding custom configuration for the vhost.
-ADD /vhosts/sendplex.conf /etc/httpd/conf.d/
+ADD /vhosts/sendsms.conf /etc/httpd/conf.d/
 
 # Exposed ports
 EXPOSE 22 80 443

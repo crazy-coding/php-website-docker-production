@@ -6,47 +6,47 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
     <url>
-  <loc>https://www.sendplex.com/</loc>
+  <loc>https://www.sendsms.com/</loc>
   <lastmod>2019-09-05T00:09:54+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.sendplex.com/index.php</loc>
+  <loc>https://www.sendsms.com/index.php</loc>
   <lastmod>2019-09-05T00:09:54+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.sendplex.com/about.php</loc>
+  <loc>https://www.sendsms.com/about.php</loc>
   <lastmod>2019-09-05T00:09:54+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.sendplex.com/alerting-text-messaging.php</loc>
+  <loc>https://www.sendsms.com/alerting-text-messaging.php</loc>
   <lastmod>2019-09-05T00:09:54+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.sendplex.com/conversation-text-messaging.php</loc>
+  <loc>https://www.sendsms.com/conversation-text-messaging.php</loc>
   <lastmod>2019-09-05T00:09:54+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.sendplex.com/marketing-text-messaging.php</loc>
+  <loc>https://www.sendsms.com/marketing-text-messaging.php</loc>
   <lastmod>2019-09-05T00:09:54+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.sendplex.com/contact.php</loc>
+  <loc>https://www.sendsms.com/contact.php</loc>
   <lastmod>2019-09-05T00:09:54+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.sendplex.com/privacy.php</loc>
+  <loc>https://www.sendsms.com/privacy.php</loc>
   <lastmod>2019-09-05T00:09:54+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.sendplex.com/terms.php</loc>
+  <loc>https://www.sendsms.com/terms.php</loc>
   <lastmod>2019-09-05T00:09:54+00:00</lastmod>
   <priority>0.80</priority>
 </url>

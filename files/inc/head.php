@@ -7,7 +7,7 @@
       <meta name="description" content="With An Award-Winning Dashboard And Proven Platform, We Can Help You Turbocharge Your Marketing And Communications." />
       <meta name="author" content="Professional SMS Platform" />
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-      <title>Sendplex</title>
+      <title>SendSMS</title>
       <!-- favicon icon -->
       <link rel="shortcut icon" href="images/favicon.ico" />
       <!-- inject css start -->

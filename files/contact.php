@@ -10,10 +10,10 @@ Define("MAILGUN_API", "b5e476165b3bd8a1759fac70d3daef5e-16ffd509-804c2a1e");
  + ===================== */
 if(isset($_POST['email'])) {
     $mg = Mailgun::create(MAILGUN_API);
-    $domain = "mailsv.sendplex.com";
+    $domain = "mailsv.sendsms.com";
 
     $from_email = $_POST['email'];
-    $to_email = 'info@sendplex.com';
+    $to_email = 'info@sendsms.com';
     $name = $_POST['name'];
     $message = $_POST['message'];
     
@@ -40,7 +40,7 @@ require_once 'inc/header.php';
             <div class="row">
                 <div class="col-lg-8 col-md-12 offset-2">
                 <?php if(isset($success)) { ?>
-                    <div class="alert alert-success mt-5 mb-5" role="alert">Thank you for contacting SendPlex, one of our representatives will get back with you.</div>
+                    <div class="alert alert-success mt-5 mb-5" role="alert">Thank you for contacting SendSMS, one of our representatives will get back with you.</div>
                 <?php } ?>
                 <h1>Get in Touch with Us</h1>
                 <p class="lead">Feel free to write or contact with us, if you have any question or query.</p>
@@ -89,7 +89,7 @@ require_once 'inc/header.php';
                 <div class="conatct-info">
                     <ul class="contact-page list-unstyled">
                         <li class="address bold-font">4228 E Belknap St, Ste #110, Fort Worth, TX 76117</li>
-                        <li class="mail bold-font"><a href="mailto:info@sendplex.com">info@sendplex.com</a></li>
+                        <li class="mail bold-font"><a href="mailto:info@sendsms.com">info@sendsms.com</a></li>
                         <li class="telephone bold-font"><a href="tel:18669297539">1-866-929-7539</a></li>
                     </ul>
                 </div>

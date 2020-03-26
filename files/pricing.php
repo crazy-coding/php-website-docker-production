@@ -64,14 +64,14 @@ require_once 'inc/header.php';
             <div class="top-footer">
             <div class="col-lg-5 col-md-12 offset-1">
                 <div class="try-email">
-                    <h4 class="mb-4 bold-font">Try Sendplex Today!</h4>
+                    <h4 class="mb-4 bold-font">Try SendSMS Today!</h4>
                     <p class="mb-0">Trusted by thousands of customers in multiple markets. Just enter your email and we will get right back with you!</p>
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 md-mt-5">
                 <div class="email-subscribe">
                     <input class="input-group-field" type="email" placeholder="Enter your email" required>
-                    <button onclick="location.href='https://sendplex.net/client/register'" class="button">Get Started</button>
+                    <button onclick="location.href='https://sendsms.net/client/register'" class="button">Get Started</button>
                     <ul>
                         <li>Easy</li>
                         <li>Fast</li>

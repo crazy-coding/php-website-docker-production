@@ -37,13 +37,13 @@
                             </li>
                             <li class="nav-item"> <a class="nav-link<?php echo $page=='contact' ? ' active' : '' ?>" href="contact" role="button" >Contact</a>
                             </li>
-                            <li class="nav-item"> <a class="nav-link mob-show" href="https://sendplex.net/client/login" role="button" >Login</a>
+                            <li class="nav-item"> <a class="nav-link mob-show" href="https://sendsms.net/client/login" role="button" >Login</a>
                             </li>
-                            <li class="nav-item"> <a class="nav-link mob-show" href="https://sendplex.net/client/register" role="button" >Register</a>
+                            <li class="nav-item"> <a class="nav-link mob-show" href="https://sendsms.net/client/register" role="button" >Register</a>
                             </li>
                         </ul>
                     </div>
-                    <div class="right-nav align-items-center d-flex justify-content-end list-inline"> <a class="btn btn-white btn-sm" href="https://sendplex.net/client/login" target="_blank">Login</a>  <a class="btn btn-white btn-sm color-btn" href="https://sendplex.net/client/register" target="_blank">Register</a>
+                    <div class="right-nav align-items-center d-flex justify-content-end list-inline"> <a class="btn btn-white btn-sm" href="https://sendsms.net/client/login" target="_blank">Login</a>  <a class="btn btn-white btn-sm color-btn" href="https://sendsms.net/client/register" target="_blank">Register</a>
                     </div>
                 </nav>
                 </div>

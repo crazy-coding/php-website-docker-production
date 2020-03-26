@@ -1,5 +1,5 @@
-# SendPlex-Website
- FrontEnd website for SendPlex
+# SendSMS-Website
+ FrontEnd website for SendSMS
 Version 1.0
 
 Changelog - 09/03/19

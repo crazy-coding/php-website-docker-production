@@ -7,15 +7,15 @@ require_once 'inc/header.php';
 <!-- <section class="fullscreen-banner banner banner-2 p-0 o-hidden bg-contain bg-pos-r animatedBackground" data-bg-img="images/bg/05.png">-->
 <section class="fullscreen-banner banner banner-2 p-0 o-hidden page-title o-hidden text-center grey-bg bg-contain animatedBackground" data-bg-img="images/pattern/05.png">
     <div class="mouse-parallax" data-bg-img="images/pattern/01.png"></div>
-    <div class="insideText">SendPlex</div>
+    <div class="insideText">SendSMS</div>
     <div class="about-banner align-center">
     <div class="container">
         <div class="row align-items-center pos-rel">
             <div class="col-lg-7 col-md-12">
                 <div class="about-text">
                 <span class="about-a">About Our Awesome Company!</span>
-                <h1 class="about-b">Welcome to Sendplex! Sendplex has been helping organizations since 2007.</h1>
-                <h6 class="about-c">With an award-winning dashboard and proven platform, we can help you turbocharge your marketing and communications. Serving thousands of clients, Sendplex provides for household names as well as small businesses - like the pizza shop around the corner. Proudly based in New York, offices are in the beautiful city of Syracuse.</h6>
+                <h1 class="about-b">Welcome to SendSMS! SendSMS has been helping organizations since 2007.</h1>
+                <h6 class="about-c">With an award-winning dashboard and proven platform, we can help you turbocharge your marketing and communications. Serving thousands of clients, SendSMS provides for household names as well as small businesses - like the pizza shop around the corner. Proudly based in New York, offices are in the beautiful city of Syracuse.</h6>
                 </div>
             </div>
             <div class="col-lg-5 col-md-12 text-center">
@@ -77,7 +77,7 @@ require_once 'inc/header.php';
                     <h5>Ease Of Use</h5>
                 </div>
                 <div class="featured-desc">
-                    <p>Every day we strive to make your experience with Sendplex straightforward and easy. We're continually listening to feedback and making our service better. Sending text messages should not be hard.</p>
+                    <p>Every day we strive to make your experience with SendSMS straightforward and easy. We're continually listening to feedback and making our service better. Sending text messages should not be hard.</p>
                 </div>
                 </div>
             </div>
@@ -101,12 +101,12 @@ require_once 'inc/header.php';
                     <div class="item align-items-center">
                         <div class="col-lg-4 col-md-12 offset-1 md-mt-5 profile-section">
                             <img src="images/women.png" alt="Women">
-                            <span class="profile-comment">Sendplex made our interaction easy</span>
+                            <span class="profile-comment">SendSMS made our interaction easy</span>
                         </div>
                         <div class="col-lg-4 col-md-12 offset-1 profile-comment">
                             <div class="quote">
                             <div class="comment">
-                                <p class="comment-desc">"After setting up and launching my first text message campaign with Sendplex, my e-commerce store had it's best sales day ever. The entire process was super easy and quick to set up."</p>
+                                <p class="comment-desc">"After setting up and launching my first text message campaign with SendSMS, my e-commerce store had it's best sales day ever. The entire process was super easy and quick to set up."</p>
                                 <p><span>Stefanie Parks</span>, <span class="light-font"></span>Partner</p>
                                 <img src="images/sony.png" alt="Sony" class="quote-logo">
                             </div>
@@ -116,12 +116,12 @@ require_once 'inc/header.php';
                     <div class="item align-items-center">
                         <div class="col-lg-4 col-md-12 offset-1 md-mt-5 profile-section">
                             <img src="images/men-a.png" alt="men">
-                            <span class="profile-comment">Sendplex made our interaction easy</span>
+                            <span class="profile-comment">SendSMS made our interaction easy</span>
                         </div>
                         <div class="col-lg-4 col-md-12 offset-1">
                             <div class="quote">
                             <div class="comment">
-                                <p class="comment-desc">"After setting up and launching my first text message campaign with Sendplex, my e-commerce store had it's best sales day ever. The entire process was super easy and quick to set up."</p>
+                                <p class="comment-desc">"After setting up and launching my first text message campaign with SendSMS, my e-commerce store had it's best sales day ever. The entire process was super easy and quick to set up."</p>
                                 <p><span>Stefanie Parks</span>, <span class="light-font"></span>Partner</p>
                                 <img src="images/sony.png" alt="Sony" class="quote-logo">
                             </div>
@@ -131,12 +131,12 @@ require_once 'inc/header.php';
                     <div class="item">
                         <div class="col-lg-4 col-md-12 offset-1 md-mt-5 profile-section">
                             <img src="images/women.png" alt="Women">
-                            <span class="profile-comment">Sendplex made our interaction easy</span>
+                            <span class="profile-comment">SendSMS made our interaction easy</span>
                         </div>
                         <div class="col-lg-4 col-md-12 offset-1">
                             <div class="quote">
                             <div class="comment">
-                                <p class="comment-desc">"After setting up and launching my first text message campaign with Sendplex, my e-commerce store had it's best sales day ever. The entire process was super easy and quick to set up."</p>
+                                <p class="comment-desc">"After setting up and launching my first text message campaign with SendSMS, my e-commerce store had it's best sales day ever. The entire process was super easy and quick to set up."</p>
                                 <p><span>Stefanie Parks</span>, <span class="light-font"></span>Partner</p>
                                 <img src="images/sony.png" alt="Sony" class="quote-logo">
                             </div>
@@ -156,14 +156,14 @@ require_once 'inc/header.php';
             <div class="top-footer">
                 <div class="col-lg-5 col-md-12 offset-1">
                 <div class="try-email">
-                    <h4 class="mb-4 bold-font">Try Sendplex Today!</h4>
+                    <h4 class="mb-4 bold-font">Try SendSMS Today!</h4>
                     <p class="mb-0">Trusted by thousands of customers in multiple markets. Just enter your email and we will get right back with you!</p>
                 </div>
                 </div>
                 <div class="col-lg-6 col-md-12 md-mt-5">
                 <div class="email-subscribe">
                     <input class="input-group-field" type="email" placeholder="Enter your email" required>
-                    <button onclick="location.href='https://sendplex.net/client/register'" class="button">Get Started</button>
+                    <button onclick="location.href='https://sendsms.net/client/register'" class="button">Get Started</button>
                     <ul>
                         <li>Easy</li>
                         <li>Fast</li>

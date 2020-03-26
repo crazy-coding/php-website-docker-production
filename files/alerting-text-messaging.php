@@ -66,7 +66,7 @@ require_once 'inc/header.php';
             </div>
             <div class="col-lg-6 col-md-12 feature-right">
                 <h3>Sign in and send.</h3>
-                <p>The Sendplex platform is easy for both beginners and experts alike. Just sign in, and get right to work.</p>
+                <p>The SendSMS platform is easy for both beginners and experts alike. Just sign in, and get right to work.</p>
                 <ul class="feature-list">
                 <li>Enhanced Messaging</li>
                 <li>Mobile Keywords</li>

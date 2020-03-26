@@ -5,7 +5,7 @@ require_once 'inc/header.php';
 ?>
 <!--hero section start-->
 <section class="fullscreen-banner p-0 banner o-hidden res-padd" data-bg-img="images/pattern/01.png">
-    <div class="insideText">SendPlex</div>
+    <div class="insideText">SendSMS</div>
     <div class="align-center">
         <div class="container">
             <div class="row align-items-center pos-rel">
@@ -18,7 +18,7 @@ require_once 'inc/header.php';
                 <h1 class="mb-4 wow bounceInUp bnr-txt" data-wow-duration="3s" data-wow-delay="1s">Rise up! with the  <span class="font-w-5">most interesting Application</span></h1>
                 <p class="lead wow fadeInUp text-center" data-wow-duration="1s" data-wow-delay="1s">Deliver your message where it counts the most!</p>
                 <div class="align-items-center text-center wow zoomIn" data-wow-duration="3s" data-wow-delay="1s"> 
-                    <a class="btn btn-theme" href="https://sendplex.net/client/register"><span>Get started Now</span></a>
+                    <a class="btn btn-theme" href="https://sendsms.net/client/register"><span>Get started Now</span></a>
                     <a class="click-learn-more" href="about"><span>click here to <b>learn more</b></span></a>
                 </div>
                 </div>
@@ -211,7 +211,7 @@ require_once 'inc/header.php';
             <div class="row">
                 <div class="col-lg-6 col-md-12 md-mt-5 pr-70">
                 <div class="section-title mb-4">
-                    <h6>What Sendplex helps you with.</h6>
+                    <h6>What SendSMS helps you with.</h6>
                     <h2>Extra features to give you an edge over the competition</h2>
                     <p class="mb-4">Our exclusive features will give you the extra push over the other typical providers so that your Business sores and remains hasslefree.</p>
                     <a href="about" class="learn-more">Learn More</a>
@@ -255,7 +255,7 @@ require_once 'inc/header.php';
                 </div>
                 <div class="col-lg-6 col-md-12 md-mt-5">
                 <div class="section-title mb-4">
-                    <h6>What you can do with Sendplex</h6>
+                    <h6>What you can do with SendSMS</h6>
                     <h2>Always-on texting platform for your business, organization, and more.</h2>
                     <p class="mb-4">We make it easy for you to get the word out. Whether you're doing support, sending alerts, or just trying to grow your brand, texting will get the job done.</p>
                     <a href="about" class="learn-more">Learn More</a>
@@ -272,7 +272,7 @@ require_once 'inc/header.php';
                 </div>
                 <div class="quote">
                     <div class="comment">
-                        <p>“Since switching to Sendplex, we’ve doubled our customer interaction and we can reach to almost everyone now easily at the same time.”</p>
+                        <p>“Since switching to SendSMS, we’ve doubled our customer interaction and we can reach to almost everyone now easily at the same time.”</p>
                         <p class="mb-0"><span>Jason Diaz,</span> <span class="light-font">Head of Marketing</span></p>
                         <img src="images/sony.png" alt="Sony" class="quote-logo">
                     </div>
@@ -288,7 +288,7 @@ require_once 'inc/header.php';
             <div class="row">
                 <div class="col-md-9 ml-auto mr-auto text-center">
                 <div class="section-title">
-                    <h2>More than 150+ Businesses, big and small, trust Sendplex for growth.</h2>
+                    <h2>More than 150+ Businesses, big and small, trust SendSMS for growth.</h2>
                 </div>
                 </div>
             </div>
@@ -315,7 +315,7 @@ require_once 'inc/header.php';
                 <div class="col-lg-4 col-md-12 offset-1">
                     <div class="quote">
                         <div class="comment">
-                            <p class="comment-desc">"After setting up and launching my first text message campaign with Sendplex, my e-commerce store had it's best sales day ever. The entire process was super easy and quick to set up."</p>
+                            <p class="comment-desc">"After setting up and launching my first text message campaign with SendSMS, my e-commerce store had it's best sales day ever. The entire process was super easy and quick to set up."</p>
                             <p><span>Stefanie Parks</span>, <span class="light-font"></span>Partner</p>
                             <img src="images/sony.png" alt="Sony" class="quote-logo">
                         </div>
@@ -323,7 +323,7 @@ require_once 'inc/header.php';
                 </div>
                 <div class="col-lg-4 col-md-12 offset-2 md-mt-5 profile-section">
                     <img src="images/women.png" alt="Women">
-                    <span class="profile-comment">Sendplex made our interaction easy</span>
+                    <span class="profile-comment">SendSMS made our interaction easy</span>
                 </div>
                 </div>
             </div>
@@ -371,14 +371,14 @@ require_once 'inc/header.php';
                 <div class="top-footer feature3">
                 <div class="col-lg-5 col-md-12 offset-1">
                     <div class="try-email">
-                        <h4 class="mb-4 bold-font">Try Sendplex Today!</h4>
+                        <h4 class="mb-4 bold-font">Try SendSMS Today!</h4>
                         <p class="mb-0">Trusted by thousands of customers in multiple markets. Just enter your email and we will get right back with you!</p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 md-mt-5">
                     <div class="email-subscribe">
                         <input class="input-group-field" type="email" placeholder="Enter your email" required>
-                        <button onclick="location.href='https://sendplex.net/client/register'" class="button">Get Started</button>
+                        <button onclick="location.href='https://sendsms.net/client/register'" class="button">Get Started</button>
                         <ul>
                             <li>Easy</li>
                             <li>Fast</li>
